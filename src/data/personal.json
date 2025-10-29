@@ -1,0 +1,45 @@
+{
+  "name": "Maxwell Wuchter",
+  "title": "Computer Science & Engineering Student",
+  "tagline": "I build innovative software, from AI-powered web applications to immersive game experiences",
+  "email": "maxwuchter@roadrunner.com",
+  "github": "https://github.com/MWuchter",
+  "linkedin": "https://www.linkedin.com/in/maxwell-wuchter-5479a1349/",
+  "stats": {
+    "projects": "5",
+    "technologies": "20",
+    "years": "3",
+    "gpa": "4.0"
+  },
+  "aboutPreview": {
+    "paragraph1": "I'm a Computer Science and Engineering student at The Ohio State University with a minor in Mathematics and a specialization in Artificial Intelligence.",
+    "paragraph2": "From full-stack web applications to game development and machine learning experiments, I love exploring new technologies and pushing the boundaries of what's possible with code."
+  },
+  "specialties": [
+    {
+      "title": "Full-Stack Developer",
+      "description": "Building scalable applications from front to back",
+      "icon": "code",
+      "color": "blue"
+    },
+    {
+      "title": "AI Enthusiast",
+      "description": "Exploring machine learning and AI applications",
+      "icon": "lightbulb",
+      "color": "purple"
+    },
+    {
+      "title": "Game Developer",
+      "description": "Creating engaging gameplay experiences",
+      "icon": "game",
+      "color": "green"
+    },
+    {
+      "title": "Lifelong Learner",
+      "description": "Always exploring new technologies",
+      "icon": "book",
+      "color": "orange"
+    }
+  ]
+}
+

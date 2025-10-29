@@ -1,0 +1,113 @@
+{
+  "categories": [
+    {
+      "name": "Frontend Development",
+      "icon": "frontend",
+      "skills": [
+        {
+          "name": "Vue.js",
+          "description": "Building reactive, component-based UIs with Vue 3 and the Composition API"
+        },
+        {
+          "name": "JavaScript/TypeScript",
+          "description": "Modern ES6+ features and type-safe development"
+        },
+        {
+          "name": "CSS/Tailwind",
+          "description": "Responsive design and modern styling frameworks"
+        },
+        {
+          "name": "Vite",
+          "description": "Fast build tooling and development environment"
+        }
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "icon": "backend",
+      "skills": [
+        {
+          "name": "Java & Spring Boot",
+          "description": "Enterprise-level application development"
+        },
+        {
+          "name": "Python",
+          "description": "Data analysis, scripting, and ML projects"
+        },
+        {
+          "name": "MySQL",
+          "description": "Database design and optimization"
+        },
+        {
+          "name": "Docker",
+          "description": "Containerization and deployment"
+        }
+      ]
+    },
+    {
+      "name": "AI & Machine Learning",
+      "icon": "ai",
+      "skills": [
+        {
+          "name": "OpenAI API",
+          "description": "Integrating AI capabilities into applications"
+        },
+        {
+          "name": "TensorFlow",
+          "description": "Building and training ML models"
+        },
+        {
+          "name": "NumPy/Pandas",
+          "description": "Data processing and analysis"
+        },
+        {
+          "name": "Scikit-learn",
+          "description": "Machine learning algorithms and tools"
+        }
+      ]
+    },
+    {
+      "name": "Game Development",
+      "icon": "game",
+      "skills": [
+        {
+          "name": "Roblox Studio",
+          "description": "Game design and development"
+        },
+        {
+          "name": "Lua",
+          "description": "Scripting for game mechanics and systems"
+        },
+        {
+          "name": "Game Design",
+          "description": "Creating engaging gameplay experiences"
+        },
+        {
+          "name": "UI/UX",
+          "description": "Designing intuitive user interfaces"
+        }
+      ]
+    },
+    {
+      "name": "Tools & Workflows",
+      "icon": "tools",
+      "skills": [
+        {
+          "name": "Git & GitHub",
+          "description": "Version control and collaboration"
+        },
+        {
+          "name": "VS Code",
+          "description": "Development environment and productivity"
+        }
+      ]
+    }
+  ],
+  "quickHighlights": {
+    "frontend": "Vue.js, React, TypeScript, Tailwind CSS",
+    "backend": "Java, Spring Boot, Node.js, MySQL",
+    "aiml": "Python, TensorFlow, OpenAI API, Scikit-learn",
+    "tools": "Git, VS Code, Roblox Studio"
+  }
+}
+

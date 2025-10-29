@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Legis-lator",
+    "shortDescription": "A full stack web application that allows users to search for and view the text of laws passed by the United States Congress.",
+    "description": "Legis-lator is a comprehensive full-stack web application designed to make legislative information more accessible and understandable. The platform allows users to search for and view the text of laws passed by the United States Congress, with AI-powered features that summarize complex legislation and answer user questions.",
+    "detailedDescription": "This project demonstrates advanced full-stack development skills, combining a robust Java Spring Boot backend with a modern Vue.js frontend. The application integrates with OpenAI's API to provide intelligent summaries and interactive Q&A capabilities, making complex legal documents more digestible for the average citizen.",
+    "features": [
+      "Search and browse U.S. Congressional legislation",
+      "AI-powered law summarization using OpenAI API",
+      "Interactive Q&A system for legal documents",
+      "User-friendly interface built with Vue 3 and Vite",
+      "Secure authentication and user management",
+      "Scalable architecture using Docker containers",
+      "RESTful API with comprehensive documentation"
+    ],
+    "technologies": ["Java", "Spring Boot", "Vue", "Vite", "MySQL", "Docker", "OpenAI API"],
+    "tags": ["Full-Stack", "Web Development", "AI Integration", "Government Tech", "Legal Tech"],
+    "githubUrl": "https://github.com/MWuchter/Legis-lator-PUBLIC",
+    "liveUrl": "https://legis-lator.org",
+    "status": "Deployed",
+    "role": "Full Stack Developer",
+    "timeline": "October 2025 - Present"
+  },
+  {
+    "id": 2,
+    "title": "Roblox Game Development",
+    "shortDescription": "A collection of Roblox games and systems built using Lua, featuring advanced scripting, AI behavior, economy systems, and custom UI.",
+    "description": "A diverse portfolio of Roblox games showcasing advanced Lua scripting, game design principles, and creative gameplay mechanics. Projects range from tycoon-style resource management games to immersive adventure experiences and atmospheric horror games.",
+    "detailedDescription": "This collection represents years of game development experience on the Roblox platform, demonstrating proficiency in Lua programming, client-server architecture, and game design. Each project features custom-built systems including AI behaviors, economic models, inventory management, and polished user interfaces.",
+    "features": [
+      "Custom tycoon games with complex economy systems",
+      "Adventure games with quest systems and progression",
+      "Horror-style games with atmospheric design",
+      "Advanced NPC AI and pathfinding",
+      "Server-client networking and data persistence",
+      "Custom UI/UX with modern design principles",
+      "In-game purchase systems and monetization",
+      "Multiplayer functionality and social features"
+    ],
+    "technologies": ["Roblox Studio", "Lua", "Roblox Cloud", "DataStore API"],
+    "tags": ["Game Development", "Multiplayer", "3D Design", "Scripting", "Game Mechanics", "Virtual Economy"],
+    "githubUrl": "https://github.com/MWuchter/Roblox-MazeGame",
+    "liveUrl": "",
+    "status": "Ongoing",
+    "role": "Game Developer & Designer",
+    "timeline": "September 2024 - Present"
+  },
+  {
+    "id": 3,
+    "title": "AI & Machine Learning Experiments",
+    "shortDescription": "A collection of small-scale AI and ML projects exploring data analysis, model training, and algorithm experimentation.",
+    "description": "An experimental portfolio of machine learning projects focused on exploring various ML algorithms, data analysis techniques, and model optimization strategies. These projects utilize real-world datasets to solve practical problems and deepen understanding of AI/ML concepts.",
+    "detailedDescription": "This collection showcases hands-on experience with modern machine learning frameworks and libraries. Projects include classification tasks, regression analysis, natural language processing experiments, and computer vision applications. Each project emphasizes clean code, proper data preprocessing, and model evaluation best practices.",
+    "features": [
+      "Data preprocessing and feature engineering",
+      "Supervised and unsupervised learning models",
+      "Neural network implementations with TensorFlow",
+      "Natural language processing experiments",
+      "Computer vision and image classification",
+      "Model performance visualization and analysis",
+      "Jupyter notebooks with detailed documentation",
+      "Real-world dataset applications"
+    ],
+    "technologies": ["Python", "NumPy", "Pandas", "Scikit-learn", "TensorFlow", "Jupyter", "Matplotlib"],
+    "tags": ["Machine Learning", "Data Science", "AI/ML", "Deep Learning", "Computer Vision", "NLP"],
+    "githubUrl": "https://github.com/MWuchter/AI-ML-Testing",
+    "liveUrl": "",
+    "status": "Ongoing",
+    "role": "ML Engineer",
+    "timeline": "2024 - Present"
+  },
+  {
+    "id": 4,
+    "title": "Full Stack Hardwood Marketplace Website",
+    "shortDescription": "A sleek e-commerce platform for buying and selling handmade hardwood furniture.",
+    "description": "A modern e-commerce platform specifically designed for artisan woodworkers to showcase and sell their handmade hardwood furniture. The platform features real-time inventory management, secure payment processing, and a beautiful, responsive interface that highlights the craftsmanship of each piece.",
+    "detailedDescription": "Built with modern web technologies, this marketplace provides small woodworking businesses with an affordable, scalable platform to reach customers online. The site features advanced filtering, detailed product pages, customer reviews, and an intuitive admin dashboard for inventory and order management.",
+    "features": [
+      "Responsive product catalog with advanced filtering",
+      "Real-time inventory management system",
+      "Secure checkout and payment processing",
+      "High-quality image galleries for products",
+      "Customer review and rating system",
+      "Admin dashboard for sellers",
+      "Order tracking and email notifications",
+      "Mobile-optimized shopping experience",
+      "SEO-optimized product pages"
+    ],
+    "technologies": ["JavaScript", "TypeScript", "Tailwind CSS", "Vue", "Vite", "Node.js", "Stripe API"],
+    "tags": ["E-commerce", "Full-Stack", "Web Development", "Payment Integration", "Marketplace", "SaaS"],
+    "githubUrl": "https://github.com/MWuchter/WoodMarketplaceWebsite",
+    "liveUrl": "",
+    "status": "Incomplete/Development",
+    "role": "Lead Developer",
+    "timeline": "September 2025 - Present"
+  },
+  {
+    "id": 5,
+    "title": "Personal Portfolio Website",
+    "shortDescription": "A modern, interactive portfolio website showcasing my projects, skills, and experience.",
+    "description": "A sleek, responsive personal website designed to highlight my technical skills, portfolio projects, and professional journey. The site serves as a central hub for my work in software development, engineering, and entrepreneurship.",
+    "detailedDescription": "Developed as a fully responsive single-page application, this personal website integrates modern web technologies to create an engaging user experience. It features dynamic project displays, an interactive timeline of experience, and contact integration. The design emphasizes clarity, speed, and visual appeal, providing visitors with a clean and intuitive way to explore my work.",
+    "features": [
+      "Responsive single-page design",
+      "Dynamic project showcase with filters and categories",
+      "Interactive experience timeline",
+      "About and skills sections with animations",
+      "Contact form with email integration",
+      "Optimized for performance and SEO",
+      "Dark and light mode support",
+      "Custom domain and hosting setup"
+    ],
+    "technologies": ["JavaScript", "Vue.js", "Tailwind CSS"],
+    "tags": ["Web Development", "Frontend", "Portfolio", "Personal Branding"],
+    "githubUrl": "https://github.com/MWuchter/PersonalWebsite",
+    "liveUrl": "",
+    "status": "Complete",
+    "role": "Designer & Developer",
+    "timeline": "October 2025 - Present"
+  }  
+]

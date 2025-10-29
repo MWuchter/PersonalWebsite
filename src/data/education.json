@@ -1,0 +1,21 @@
+{
+  "university": "The Ohio State University",
+  "degree": "Bachelor of Science in Computer Science and Engineering",
+  "minor": "Mathematics",
+  "specialization": "Artificial Intelligence",
+  "timeline": "2024 - 2027",
+  "expectedGraduation": "2027",
+  "description": "Focused on software engineering, algorithms, and artificial intelligence. Developed a strong foundation in computer science fundamentals, mathematical theory, and modern development practices with a specialized focus on AI technologies.",
+  "coursework": [
+    "Software I: Components",
+    "Software II: Engineering",
+    "Systems I: Operating Systems and C",
+    "Foundations I: Discrete Structures",
+    "Foundations II: Data Structures",
+    "Linear Algebra",
+    "Differential Equations",
+    "Calculus I, II, III",
+    "Engineering Statistics"
+  ]
+}
+
