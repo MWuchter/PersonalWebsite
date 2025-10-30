@@ -8,11 +8,9 @@
     "features": [
       "Search and browse U.S. Congressional legislation",
       "AI-powered law summarization using OpenAI API",
-      "Interactive Q&A system for legal documents",
+      "Interactive AI Chatbot system for legal documents",
       "User-friendly interface built with Vue 3 and Vite",
-      "Secure authentication and user management",
-      "Scalable architecture using Docker containers",
-      "RESTful API with comprehensive documentation"
+      "Scalable architecture using Docker containers"
     ],
     "technologies": ["Java", "Spring Boot", "Vue", "Vite", "MySQL", "Docker", "OpenAI API"],
     "tags": ["Full-Stack", "Web Development", "AI Integration", "Government Tech", "Legal Tech"],
@@ -22,6 +20,7 @@
     "role": "Full Stack Developer",
     "timeline": "October 2025 - Present"
   },
+
   {
     "id": 2,
     "title": "Roblox Game Development",
@@ -31,45 +30,44 @@
     "features": [
       "Custom tycoon games with complex economy systems",
       "Adventure games with quest systems and progression",
-      "Horror-style games with atmospheric design",
+      "Maze games with AI pathfinding and exploration",
       "Advanced NPC AI and pathfinding",
       "Server-client networking and data persistence",
       "Custom UI/UX with modern design principles",
       "In-game purchase systems and monetization",
       "Multiplayer functionality and social features"
     ],
-    "technologies": ["Roblox Studio", "Lua", "Roblox Cloud", "DataStore API"],
-    "tags": ["Game Development", "Multiplayer", "3D Design", "Scripting", "Game Mechanics", "Virtual Economy"],
+    "technologies": ["Roblox Studio", "Lua", "DataStore API"],
+    "tags": ["Game Development", "Multiplayer", "3D Design", "Scripting", "Product Research"],
     "githubUrl": "https://github.com/MWuchter/Roblox-MazeGame",
     "liveUrl": "",
     "status": "Ongoing",
     "role": "Game Developer & Designer",
     "timeline": "September 2024 - Present"
   },
+
   {
     "id": 3,
     "title": "AI & Machine Learning Experiments",
     "shortDescription": "A collection of small-scale AI and ML projects exploring data analysis, model training, and algorithm experimentation.",
     "description": "An experimental portfolio of machine learning projects focused on exploring various ML algorithms, data analysis techniques, and model optimization strategies. These projects utilize real-world datasets to solve practical problems and deepen understanding of AI/ML concepts.",
-    "detailedDescription": "This collection showcases hands-on experience with modern machine learning frameworks and libraries. Projects include classification tasks, regression analysis, natural language processing experiments, and computer vision applications. Each project emphasizes clean code, proper data preprocessing, and model evaluation best practices.",
+    "detailedDescription": "This collection showcases hands-on experience with modern machine learning frameworks and libraries. Projects include classification tasks, regression analysis, and computer vision applications. Each project emphasizes clean code, proper data preprocessing, and model evaluation best practices.",
     "features": [
       "Data preprocessing and feature engineering",
-      "Supervised and unsupervised learning models",
       "Neural network implementations with TensorFlow",
       "Natural language processing experiments",
       "Computer vision and image classification",
-      "Model performance visualization and analysis",
-      "Jupyter notebooks with detailed documentation",
       "Real-world dataset applications"
     ],
-    "technologies": ["Python", "NumPy", "Pandas", "Scikit-learn", "TensorFlow", "Jupyter", "Matplotlib"],
-    "tags": ["Machine Learning", "Data Science", "AI/ML", "Deep Learning", "Computer Vision", "NLP"],
+    "technologies": ["Python", "NumPy", "Pandas", "TensorFlow"],
+    "tags": ["Machine Learning", "Data Science", "AI/ML", "Deep Learning", "Computer Vision"],
     "githubUrl": "https://github.com/MWuchter/AI-ML-Testing",
     "liveUrl": "",
     "status": "Ongoing",
     "role": "ML Engineer",
     "timeline": "2024 - Present"
   },
+
   {
     "id": 4,
     "title": "Full Stack Hardwood Marketplace Website",
@@ -95,6 +93,7 @@
     "role": "Lead Developer",
     "timeline": "September 2025 - Present"
   },
+
   {
     "id": 5,
     "title": "Personal Portfolio Website",
@@ -115,8 +114,8 @@
     "tags": ["Web Development", "Frontend", "Portfolio", "Personal Branding"],
     "githubUrl": "https://github.com/MWuchter/PersonalWebsite",
     "liveUrl": "",
-    "status": "Complete",
+    "status": "Deployed",
     "role": "Designer & Developer",
-    "timeline": "October 2025 - Present"
+    "timeline": "October 2025"
   }  
 ]

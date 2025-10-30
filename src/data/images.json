@@ -1,13 +1,5 @@
 {
-    "osu_logo": "/public/images/osu_logo.png",
-
-    "photo_of_me1": "",
-
-    "hackathon_photo": "",
-
-    "woodworking_photo": "",
-
-    "photo_of_me2": ""
-
+    "osu_logo": "/images/osu_logo.png",
+    "profile": "/images/profile.jpg"
 }
   

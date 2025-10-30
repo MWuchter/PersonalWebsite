@@ -13,17 +13,22 @@
       <!-- University Education -->
       <div class="bg-white rounded-2xl shadow-sm border border-gray-200 p-8 hover:shadow-lg transition-shadow">
         <div class="flex flex-col md:flex-row md:items-start md:justify-between mb-6">
-          <div class="flex items-start">
-            <div class="w-12 h-12 bg-primary-100 rounded-lg flex items-center justify-center mr-4 flex-shrink-0">
-              <svg class="w-6 h-6 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 14l9-5-9-5-9 5 9 5z"></path>
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z"></path>
-              </svg>
+          <div class="flex flex-col md:flex-row items-center md:items-start gap-6 flex-1">
+            <!-- University Logo -->
+            <div class="relative flex-shrink-0">
+              <div class="absolute -inset-2 bg-gradient-to-br from-primary-200 to-primary-100 rounded-2xl opacity-40 blur-lg"></div>
+              <img 
+                :src="images.osu_logo" 
+                alt="Ohio State University" 
+                class="relative w-24 h-24 md:w-28 md:h-28 object-contain filter drop-shadow-md" 
+              />
             </div>
-            <div>
+
+            <!-- University Info -->
+            <div class="text-center md:text-left flex-1">
               <h2 class="text-2xl font-bold text-gray-900 mb-1">{{ education.university }}</h2>
-              <h3 class="text-lg font-semibold text-primary-600 mb-2">{{ education.degree }}</h3>
-              <div class="flex flex-wrap gap-3">
+              <h3 class="text-lg font-semibold text-primary-600 mb-3">{{ education.degree }}</h3>
+              <div class="flex flex-wrap gap-3 justify-center md:justify-start">
                 <span 
                   v-if="education.minor" 
                   class="inline-flex items-center px-3 py-1 bg-purple-100 text-purple-700 text-sm font-semibold rounded-lg"
@@ -45,7 +50,8 @@
               </div>
             </div>
           </div>
-          <span class="inline-block px-4 py-2 bg-primary-50 text-primary-700 font-semibold rounded-lg mt-4 md:mt-0 flex-shrink-0">
+          
+          <span class="inline-block px-4 py-2 bg-primary-50 text-primary-700 font-semibold rounded-lg mt-4 md:mt-0 flex-shrink-0 self-center md:self-start">
             {{ education.timeline }}
           </span>
         </div>
@@ -83,6 +89,8 @@
 <script setup>
 import { ref } from 'vue'
 import educationData from '../data/education.json'
+import imagesData from '../data/images.json'
 
 const education = ref(educationData)
+const images = ref(imagesData)
 </script>

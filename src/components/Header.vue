@@ -7,13 +7,6 @@
         </router-link>
         <nav class="flex gap-8">
           <router-link 
-            to="/about" 
-            class="text-gray-600 hover:text-primary-600 transition-colors font-medium"
-            active-class="text-primary-600 border-b-2 border-primary-600"
-          >
-            About
-          </router-link>
-          <router-link 
             to="/projects" 
             class="text-gray-600 hover:text-primary-600 transition-colors font-medium"
             active-class="text-primary-600 border-b-2 border-primary-600"
