@@ -13,7 +13,6 @@
                   :src="images.profile" 
                   :alt="personal.name" 
                   class="w-full h-full object-cover"
-                  @error="handleImageError"
                 />
               </div>
             </div>
@@ -258,8 +257,4 @@ const skills = ref(skillsData)
 const images = ref(imagesData)
 const featuredProjects = ref(projectsData.slice(0, 3))
 
-const handleImageError = (e) => {
-  // Fallback to a placeholder if image fails to load
-  e.target.src = 'https://via.placeholder.com/300x300/6366f1/ffffff?text=Profile'
-}
 </script>
